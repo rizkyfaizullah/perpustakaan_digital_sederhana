@@ -1,0 +1,13 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+input {
+    border-color: #ddd;
+}
+
+input:focus {
+    border-color: #007bff;
+    outline: none;
+}
